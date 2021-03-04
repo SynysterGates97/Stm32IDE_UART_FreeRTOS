@@ -51,7 +51,7 @@ const osThreadAttr_t defaultTask_attributes = {
   .stack_size = 128 * 4
 };
 /* USER CODE BEGIN PV */
-
+//FIRST COMMENT
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
